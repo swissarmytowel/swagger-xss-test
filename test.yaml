@@ -9,7 +9,8 @@ paths:
     get:
       responses:
         '200':
-          description: No response was specified
+          description: |
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
       tags:
         - accounts
       operationId: findAccounts
